@@ -1,0 +1,14 @@
+name: bettersurvival
+main: com.bettersurvival.bettersurvival.Plugin
+version: 1.0.0
+api-version: 1.19
+author: FlorianDevv
+commands:
+  rain:
+    description: To skip the rain with a vote !
+  night:
+    description: To skip the night with a vote !
+  death:
+    description: To see your death location
+  suicide:
+    description: To kill yourself
