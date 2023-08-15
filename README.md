@@ -1,23 +1,22 @@
-***(This is the final repository so that's why there are no commit)***
+# BetterSurvival 🌟
+Enhance your multiplayer survival experience with this fantastic Minecraft plugin! 🪓⚔️
+Available in english and french 
+## Features 🛡️
+- [x] Vote to skip the night 🌙🗳️
+- [x] Vote to skip the rain 🌧️🗳️
+- [x] Customize your Join Message 📥✉️
+- [x] Customize your Leave Message 📤✉️
+- [x] Personalize your TabList 📋🔍
+- [x] Graves (Death Chests) to safeguard your loot 💼⚰️
+- [x] Easily locate death coordinates 🔍💀
+- [x] Anti-Cheat for OP players to maintain fairness ⚖️🛡️
+- [x] Enjoy custom /msg commands 📧💬
+- [x] Plus other delightful tweaks and features 🎁🎈
 
-# BetterSurvival
-Minecraft plugin to improve survival experience in multiplayer 
+## Commands 📜⚙️
+- /rain - Cast your vote to skip the rain ☔🗳️
+- /night - Cast your vote to skip the night 🌙🗳️
+- /suicide - Sometimes it's just a bad day... 💔😔
+- /death - Discover the coordinates of your untimely demise 🌎⚰️
 
-- [x] Two languages (fr, en)
-## Features
-- [x] Vote to skip the night
-- [x] Vote to skip the rain
-- [x] Customizable Join Message
-- [x] Customizable Leave Message
-- [x] Customizable TabList
-- [x] Graves (Death Chests)
-- [x] See Death coordinates
-- [x] Anti Cheat Op player (no Gamemode creative and plays with his friends)
-- [x] Custom /msg
-- [x] And other little features
-
-## Commands
-- /rain - Vote to skip the rain
-- /night - Vote to skip the night
-- /suicide - To kill yourself
-- /death - To see where you dead
+Feel the excitement of BetterSurvival as you embark on an enhanced journey in the world of Minecraft! 🌍🔥
